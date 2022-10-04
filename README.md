@@ -8,6 +8,10 @@
 
 [ADE20K-outdoor](https://www.kaggle.com/datasets/residentmario/ade20k-outdoors)
 
+## 模型架構
+
+![](./plot/Model.png)
+
 ## 實作結果
 
 ### Ground Truth Comparison
